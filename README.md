@@ -8,7 +8,7 @@ This repository is a static website practice projects for my mother's small comp
 # 2. EdufordUni
 A small practice project. Credits go to YouTube channel: Easy Tutorials
 
-<img src="EdufordUni/duford_img/Screenshot 2025-07-03 at 11.14.08 AM.png">
+<img src="EdufordUni/eduford_img/Screenshot 2025-07-03 at 11.14.08 AM.png">
 
 # 3. VoSymbol
 A logo business website. ENTR1014 Project.
